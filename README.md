@@ -1,0 +1,2 @@
+# checkrepo
+just check repo
